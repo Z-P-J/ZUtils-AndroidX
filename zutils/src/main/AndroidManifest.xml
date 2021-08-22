@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.zpj.utils">
+
+
+    <application>
+
+        <provider
+            android:authorities="${applicationId}.z_utils_file_provider"
+            android:exported="false"
+            android:grantUriPermissions="true"
+            android:name=".ZUtilsFileProvider">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/z_utils_file_paths" />
+        </provider>
+
+    </application>
+
+</manifest>

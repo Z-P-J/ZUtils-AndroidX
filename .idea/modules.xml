@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZUtils-AndroidX.iml" filepath="$PROJECT_DIR$/.idea/modules/ZUtils-AndroidX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZUtils-AndroidX.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZUtils-AndroidX.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zutils/ZUtils-AndroidX.zutils.iml" filepath="$PROJECT_DIR$/.idea/modules/zutils/ZUtils-AndroidX.zutils.iml" />
+    </modules>
+  </component>
+</project>
